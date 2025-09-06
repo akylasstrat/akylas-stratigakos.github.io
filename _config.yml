@@ -4,7 +4,7 @@ email: "you@example.com"
 description: "Short bio here."
 
 url: "https://akylasstrat.github.io"
-baseurl: "/akylas-stratigakos.github.io"   # must match the repo name with a leading slash
+baseurl: ""   # must match the repo name with a leading slash
 
 markdown: kramdown
 permalink: /:categories/:title/
