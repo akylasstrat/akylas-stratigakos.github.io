@@ -1,10 +1,10 @@
 - title: Home
-  url: {{ "/" | relative_url }}
+  url: /
 - title: Publications
-  url: {{ "/publications/" | relative_url }}
+  url: /publications/
 - title: Talks
-  url: {{ "/talks/" | relative_url }}
+  url: /talks/
 - title: Collaborators
-  url: {{ "/collaborators/" | relative_url }}
+  url: /collaborators/
 - title: CV
-  url: {{ "/cv/" | relative_url }}
+  url: /cv/
