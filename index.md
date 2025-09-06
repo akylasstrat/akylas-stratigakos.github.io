@@ -10,8 +10,8 @@ permalink: /
   <div style="min-width:300px; flex:1;">
     <h1 style="margin:0; font-size:2.2rem;">Akylas Stratigakos</h1>
     <p style="margin:.3rem 0 1rem; font-size:1.15rem; color:#444;">
-      <strong>Role:</strong> ⚑ Postdoctoral Researcher <br>
-      <strong>Affiliation:</strong> ⚑ Department, University <br>
+      <strong>Role:</strong> Lecturer in Energy Systems and Data Analytics <br>
+      <strong>Affiliation:</strong> UCL Energy Institute, University College London <br>
       <strong>Research areas:</strong> ⚑ keywords (e.g., optimization, ML, energy systems)
     </p>
 
