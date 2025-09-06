@@ -1,8 +1,7 @@
 title: Dr
 name: Akylas Stratigakos
 email: a.stratigakos@ucl.ac.uk
-description: >
-⚑ Short one-line bio (e.g., "PhD candidate in Machine Learning at University X.")
+description: ⚑ Short one-line bio (e.g., "PhD candidate in Machine Learning at University X.")
 baseurl: "" # keep empty for user.github.io sites
 url: "https://akylas-stratigakos.github.io"
 
