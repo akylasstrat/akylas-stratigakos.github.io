@@ -2,8 +2,8 @@ title: "Akylas Stratigakos"
 name: "Akylas Stratigakos"
 email: "you@example.com"
 description: "Short bio here."
-url: "https://akylasstrat.github.io"     # no trailing slash
-baseurl: "/akylas-stratigakos.github.io" # MUST start with a slash
+url: "https://akylasstrat.github.io"          # no trailing slash
+baseurl: "/akylas-stratigakos.github.io"      # starts with a slash
 
 markdown: kramdown
 permalink: /:categories/:title/

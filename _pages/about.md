@@ -1,9 +1,14 @@
 ---
-permalink: /about/
+layout: default
 title: About
-layout: page
+permalink: /about/
 ---
 
+I am Akylas Stratigakos, <em>your role</em> at <em>Institution</em>.  
+My research focuses on <em>keywords</em>. Current collaborators: <em>names</em>.
+
+- Email: <a href="mailto:you@example.com">you@example.com</a>  
+- Google Scholar: <a href="https://scholar.google.com/citations?user=YOUR_ID">Link</a>
 
 ![Profile photo](/assets/img/profile.jpg){:style="width: 160px; border-radius: 9999px;"}
 
