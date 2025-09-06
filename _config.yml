@@ -1,33 +1,27 @@
 title: "Akylas Stratigakos"
 name: "Akylas Stratigakos"
-email: "you@example.com"
+email: "a.stratigakos@ucl.ac.uk"
 description: "Short bio here."
 
 url: "https://akylasstrat.github.io"
 baseurl: ""   # must match the repo name with a leading slash
 
-markdown: kramdown
-permalink: /:categories/:title/
+# collections:
+#   talks:
+#     output: true
+#     permalink: /talks/:name/
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-scholar
 
-collections:
-  pages:
-    output: true
-    permalink: /:name/
-    
 scholar:
   source: ./_bibliography
   bibliography: papers.bib
-  style: apa
-
-collections:
-  talks:
-    output: true
-    permalink: /talks/:name/
+  style: apa                # change to ieee, acm, nature, etc. if you prefer
+  # bibliography_template: bibliography  # uncomment if you later add a custom template
 
 # defaults:
 #   - scope: { path: "_posts" }

@@ -4,4 +4,5 @@ title: Publications
 permalink: /publications/
 ---
 
-Add your publications here for now. (If you later enable `jekyll-scholar`, we’ll render from BibTeX.)
+<!-- Grouped by year, newest first -->
+{% raw %}{% bibliography --group_by year --order descending %}{% endraw %}
