@@ -1,10 +1,10 @@
 ---
 layout: talk
-title: ⚑ Sample Talk Title
+title: Sample Talk Title
 date: 2025-10-01
-location: ⚑Conference / University
+location: Conference / University
 slides_url: /assets/files/sample-talk.pdf
-video_url: ⚑https://youtu.be/your-video
+video_url: https://youtu.be/your-video
 ---
 
 
