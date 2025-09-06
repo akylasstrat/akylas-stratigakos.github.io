@@ -1,60 +1,22 @@
-title: Dr
-name: Akylas Stratigakos
-email: a.stratigakos@ucl.ac.uk
-description: ⚑ Short one-line bio (e.g., "PhD candidate in Machine Learning at University X.")
-baseurl: "" # keep empty for user.github.io sites
-url: "https://akylas-stratigakos.github.io"
+title: "Akylas Stratigakos"
+name: "Akylas Stratigakos"
+email: "you@example.com"
+description: "Short bio here."
+url: "https://akylasstrat.github.io"     # no trailing slash
+baseurl: "/akylas-stratigakos.github.io" # MUST start with a slash
 
-# Social / IDs
-orcid: 0000-0002-9954-5558
-google_scholar: https://scholar.google.com/citations?user=RBrai44AAAAJ&hl=en
-# twitter_username: ⚑yourhandle
-github_username: akylasstrat
-linkedin_username: ⚑your-linkedin-username
-
-
-# Build settings
 markdown: kramdown
 permalink: /:categories/:title/
 plugins:
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-seo-tag
-- jekyll-archives
-- jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
-# Collections
 collections:
   talks:
     output: true
     permalink: /talks/:name/
 
-# Navigation (see _data/navigation.yml)
-navbar:
-  logo: "/assets/img/profile.jpg"
-  title: "Akylas Stratigakos"
-
-
-# Scholar (publications)
-scholar:
-  style: apa
-  locale: en
-  source: ./_bibliography
-  bibliography: papers.bib
-  bibliography_template: bibliography
-  sort_by: year
-  order: descending
-
-
-# SEO
-seo:
-  type: Person
-  name: Akylas Stratigakos
-  same_as:
-  - https://orcid.org/⚑0000-0000-0000-0000
-  - https://scholar.google.com/citations?user=⚑YOUR_SCHOLAR_USER_ID
-
-# Defaults for posts
 defaults:
   - scope: { path: "_posts" }
     values:
