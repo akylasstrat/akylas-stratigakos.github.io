@@ -12,7 +12,7 @@ permalink: /
     <p style="margin:.3rem 0 1rem; font-size:1.15rem; color:#444;">
       <strong>Role:</strong> Lecturer in Energy Systems and Data Analytics <br>
       <strong>Affiliation:</strong> UCL Energy Institute, University College London <br>
-      <strong>Research areas:</strong> ⚑ keywords (e.g., optimization, ML, energy systems)
+      <strong>Research areas:</strong> Energy systems, machine learning, optimization
     </p>
 
     <!-- Social / IDs -->
@@ -35,13 +35,10 @@ permalink: /
     <!-- Expanded About -->
     <div style="font-size:1.05rem;">
       <p>
-        I am a researcher working on ⚑one-sentence summary of your research. My recent work focuses on
-        ⚑brief topic/approach connections (e.g., stochastic optimization and learning-based control),
-        with applications to ⚑your domain (e.g., energy networks, transportation).
+        Hi! Short information about me.
       </p>
       <p>
-        I’m currently exploring ⚑current interests. I enjoy collaborating on ⚑themes and mentoring students.
-        If you’re interested in working together, feel free to reach out.
+        What am I doing now, looking for students, hiring, etc.
       </p>
       <p>
         See <a href="{{ "/publications/" | relative_url }}">Publications</a>,
@@ -55,5 +52,5 @@ permalink: /
 <hr>
 
 ## News
-{% include news.html %}
+{% include news.html limit=6 %}
 
