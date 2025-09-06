@@ -1,11 +1,7 @@
 ---
-permalink: /cv/
+layout: default
 title: CV
-layout: page
+permalink: /cv/
 ---
 
-
-Find a current PDF CV below. For a web-native CV, edit `_cv/cv.yml` and render it here.
-
-
-- **PDF:** [Download CV](/assets/files/CV.pdf)
+- **PDF:** <a href="{{ "/assets/files/CV.pdf" | relative_url }}">Download CV</a>

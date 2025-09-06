@@ -1,13 +1,7 @@
 ---
-permalink: /publications/
+layout: default
 title: Publications
-layout: page
+permalink: /publications/
 ---
 
-
-Below is an auto-generated list from your BibTeX file.
-
-
-{% raw %}
-{% bibliography %}
-{% endraw %}
+List key papers here (or we can set up BibTeX later with Actions).
