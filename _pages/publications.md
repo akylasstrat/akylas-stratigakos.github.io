@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-List key papers here (or we can set up BibTeX later with Actions).
+Add your publications here for now. (If you later enable `jekyll-scholar`, we’ll render from BibTeX.)

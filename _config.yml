@@ -4,7 +4,7 @@ email: "you@example.com"
 description: "Short bio here."
 
 url: "https://akylasstrat.github.io"
-baseurl: "//akylas-stratigakos.github.io"   # must match the repo name with a leading slash
+baseurl: "/akylas-stratigakos.github.io"   # must match the repo name with a leading slash
 
 markdown: kramdown
 permalink: /:categories/:title/
@@ -12,7 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-scholar
+  # - jekyll-scholar
 
 scholar:
   source: ./_bibliography

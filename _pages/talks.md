@@ -4,4 +4,4 @@ title: Talks
 permalink: /talks/
 ---
 
-Your talks list…
+Talks will go here.
