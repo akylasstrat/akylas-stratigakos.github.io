@@ -29,14 +29,14 @@ collections:
     output: true
     permalink: /talks/:name/
 
-defaults:
-  - scope: { path: "_posts" }
-    values:
-      layout: post
-      author: "Akylas Stratigakos"
-  - scope: { path: "_pages" }
-    values:
-      layout: page
-  - scope: { path: "_talks" }
-    values:
-      layout: talk
+# defaults:
+#   - scope: { path: "_posts" }
+#     values:
+#       layout: post
+#       author: "Akylas Stratigakos"
+#   - scope: { path: "_pages" }
+#     values:
+#       layout: page
+#   - scope: { path: "_talks" }
+#     values:
+#       layout: talk
