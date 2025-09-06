@@ -4,4 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-- **PDF:** <a href="{{ "/assets/files/CV.pdf" | relative_url }}">Download CV</a>
+<p>
+  <a href="{{ "/assets/files/CV.pdf" | relative_url }}">View CV (PDF)</a>
+  ·
+  <a href="{{ "/assets/files/CV.pdf" | relative_url }}" download>Download</a>
+</p>
