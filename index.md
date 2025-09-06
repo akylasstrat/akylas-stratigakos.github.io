@@ -17,17 +17,17 @@ permalink: /
 
     <!-- Social / IDs -->
     <p style="margin: 0 0 1.2rem;">
-      <a href="mailto:you@example.com"><i class="fa-solid fa-envelope"></i> Email</a> ·
-      <a href="https://scholar.google.com/citations?user=⚑SCHOLAR_ID" target="_blank" rel="noopener">
+      <a href="a.stratigakos@ucl.ac.uk"><i class="fa-solid fa-envelope"></i> Email</a> ·
+      <a href="https://scholar.google.com/citations?user=RBrai44AAAAJ&hl=en" target="_blank" rel="noopener">
         <i class="ai ai-google-scholar"></i> Google Scholar
       </a> ·
-      <a href="https://orcid.org/⚑0000-0000-0000-0000" target="_blank" rel="noopener">
+      <a href="https://orcid.org/0000-0002-9954-5558" target="_blank" rel="noopener">
         <i class="ai ai-orcid"></i> ORCID
       </a> ·
       <a href="https://github.com/akylasstrat" target="_blank" rel="noopener">
         <i class="fa-brands fa-github"></i> GitHub
       </a> ·
-      <a href="https://www.linkedin.com/in/⚑your-linkedin/" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/in/akylas-stratigakos/" target="_blank" rel="noopener">
         <i class="fa-brands fa-linkedin"></i> LinkedIn
       </a>
     </p>
