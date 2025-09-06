@@ -1,0 +1,8 @@
+- name: Dr Jane Doe
+  affiliation: University of Somewhere
+  homepage: https://example.edu/~jsmith
+  topics: [widgets, robustness]
+- name: Prof John Doe
+  affiliation: Institute of Things
+  homepage: https://example.org/alex
+  topics: [gadgets, optimization]
