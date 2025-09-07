@@ -34,16 +34,21 @@ permalink: /
 
     <!-- Expanded About -->
     <div style="font-size:1.05rem;">
-      <p>
-        Hi! Short information about me.
+      <p>      
+        Welcome to my website! 
+        My name is Akylas and I am currently a Lecturer (Assistant Professor) in Energy Systems and Data Analytics at the <a href="https://www.ucl.ac.uk/bartlett/environment-energy-resources/energy">UCL Energy Institute</a>, University College London.         
+        Before that, I was a Research Associate at <a href="https://www.imperial.ac.uk/uk-electric-power-innovation/">Electric Power Innovation for a Carbon-free Society Centre (EPICS-UK)</a>, Imperial College London and a         PhD candidate at Mines Paris, PSL University.
+        My research develops and validates data-driven solutions to support the planning and operations of low-carbon power and energy systems.
+        Methodologically, I work on the interesection between machine learning, optimization, forecasting, and power and energy systems.
+        In my spare time, I watch movies (check out my <a href="https://letterboxd.com/akylas_strat/">Letterboxd</a>), work out, and enjoy London's vibrant cultural scene.
       </p>
+      
       <p>
-        What am I doing now, looking for students, hiring, etc.
-      </p>
-      <p>
-        See <a href="{{ "/publications/" | relative_url }}">Publications</a>,
+        You can find more about my research work and other activities in <a href="{{ "/publications/" | relative_url }}">Publications</a>,
         <a href="{{ "/talks/" | relative_url }}">Talks</a>,
-        and my <a href="{{ "/cv/" | relative_url }}">CV</a> for more details.
+        and my <a href="{{ "/cv/" | relative_url }}">CV</a>.
+        I am open to collaborations and will soon be looking to hire a PhD student. 
+        If you are mathematically inclined, curious, and passionate about data and decarbonization, feel free to reach out!
       </p>
     </div>
   </div>
