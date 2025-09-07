@@ -40,8 +40,9 @@ permalink: /
         Before that, I was a Research Associate at Imperial College London and a PhD candidate at Mines Paris, PSL University.
         My research develops and validates data-driven solutions to support the planning and operations of low-carbon power and energy systems.
         Methodologically, I work on the interesection between machine learning, optimization, forecasting, and power and energy systems.
-        In my spare time, I watch movies (check out my [Letterboxd](https://letterboxd.com/akylas_strat/)), work out, and enjoy London's vibrant cultural scene.
+        In my spare time, I watch movies (check out my <a href="https://letterboxd.com/akylas_strat/">Letterboxd</a>), work out, and enjoy London's vibrant cultural scene.
       </p>
+      
       <p>
         You can find more about my research work and other activities in <a href="{{ "/publications/" | relative_url }}">Publications</a>,
         <a href="{{ "/talks/" | relative_url }}">Talks</a>,
