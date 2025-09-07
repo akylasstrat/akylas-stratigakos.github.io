@@ -37,8 +37,10 @@ permalink: /
       <p>
         Welcome to my website! 
         My name is Akylas and I am currently a Lecturer (Assistant Professor) in Energy Systems and Data Analytics at the UCL Energy Institute, University College London. 
-        My research develops and validates data-driven solutions to support the planning and operations of low-carbon power and energy systems with a high penetration of renewables, 
-        leveraging tools from machine learning, optimization, and forecasting.
+        Before that, I was a Research Associate at Imperial College London and a PhD candidate at Mines Paris, PSL University.
+        My research develops and validates data-driven solutions to support the planning and operations of low-carbon power and energy systems.
+        Methodologically, I work on the interesection between machine learning, optimization, forecasting, and power and energy systems.
+        In my spare time, I watch movies (check out my [Letterboxd](https://letterboxd.com/akylas_strat/)), work out, and enjoy London's vibrant cultural scene.
       </p>
       <p>
         You can find more about my research work and other activities in <a href="{{ "/publications/" | relative_url }}">Publications</a>,
