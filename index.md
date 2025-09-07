@@ -35,7 +35,8 @@ permalink: /
     <!-- Expanded About -->
     <div style="font-size:1.05rem;">
       <p>
-        Hi! Short information about me.
+        Welcome to my website! My name is Akylas Stratigakos and I am currently a Lecturer (Assistant Professor) in Energy Systems and Data Analytics at the UCL Energy Institute, University College London. 
+        My research develops and validates novel predictive and prescriptive analytics methods, combining machine learning, optimization, and statistics, to support the planning and operations of low-carbon power and energy system.
       </p>
       <p>
         What am I doing now, looking for students, hiring, etc.
