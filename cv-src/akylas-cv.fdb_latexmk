@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber akylas-cv"] 0 "akylas-cv.bcf" "akylas-cv.bbl" "akylas-cv" 1757280218.19994 -1
-  "akylas-cv.bcf" 1757280217 107716 424b42c3d18011b17e9bef8c9f1f116c "pdflatex"
+["biber akylas-cv"] 0 "akylas-cv.bcf" "akylas-cv.bbl" "akylas-cv" 1757285805.85127 -1
+  "akylas-cv.bcf" 1757285805 107716 424b42c3d18011b17e9bef8c9f1f116c "pdflatex"
   "publications.bib" 1757275729 13834 bebb11e722ba1d70fe86d2cbd4d3c4c3 ""
   (generated)
   "akylas-cv.bbl"
   "akylas-cv.blg"
   (rewritten before read)
-["pdflatex"] 1757280214.83608 "c:/Users/ucbva19/Git projects/akylas-stratigakos.github.io/cv-src/akylas-cv.tex" "akylas-cv.pdf" "akylas-cv" 1757280218.20054 0
+["pdflatex"] 1757285804.24691 "c:/Users/ucbva19/Git projects/akylas-stratigakos.github.io/cv-src/akylas-cv.tex" "akylas-cv.pdf" "akylas-cv" 1757285805.85193 0
   "C:/Users/ucbva19/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1757242219 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ucbva19/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1757242064 24225989 f5565bb7a3be8b86229292b60e872de9 ""
   "C:/Users/ucbva19/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256933040 2375 baa924870cfb487815765f9094cf3728 ""
@@ -116,12 +116,12 @@
   "C:/Users/ucbva19/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1700603495 7147 d45559f8a31b8c53ada0640516660003 ""
   "C:/Users/ucbva19/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/ucbva19/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700131122 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "akylas-cv.aux" 1757280217 4130 4b2f07caf4bb014a19087c8d4485988c "pdflatex"
+  "akylas-cv.aux" 1757285805 4130 4b2f07caf4bb014a19087c8d4485988c "pdflatex"
   "akylas-cv.bbl" 1757275732 53849 989dd3712f45ef1f57ce5c891e00e4ee "biber akylas-cv"
-  "akylas-cv.out" 1757280217 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "akylas-cv.run.xml" 1757280218 2376 c5424e37a6875df55a54698856f9e737 "pdflatex"
-  "akylas-cv.tex" 1757280212 9331 37ce029294670dcdf46efb3fd3afde55 ""
-  "c:/Users/ucbva19/Git projects/akylas-stratigakos.github.io/cv-src/akylas-cv.tex" 1757280212 9331 37ce029294670dcdf46efb3fd3afde55 ""
+  "akylas-cv.out" 1757285805 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "akylas-cv.run.xml" 1757285805 2376 c5424e37a6875df55a54698856f9e737 "pdflatex"
+  "akylas-cv.tex" 1757285800 9331 37ce029294670dcdf46efb3fd3afde55 ""
+  "c:/Users/ucbva19/Git projects/akylas-stratigakos.github.io/cv-src/akylas-cv.tex" 1757285800 9331 37ce029294670dcdf46efb3fd3afde55 ""
   (generated)
   "akylas-cv.aux"
   "akylas-cv.bcf"
