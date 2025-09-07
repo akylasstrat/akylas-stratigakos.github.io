@@ -15,12 +15,13 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-scholar
+  # - jekyll-scholar
 
-scholar:
-  source: ./_bibliography
-  bibliography: papers.bib
-  style: apa                # change to ieee, acm, nature, etc. if you prefer
+
+# scholar:
+#   source: ./_bibliography
+#   bibliography: papers.bib
+#   style: apa                # change to ieee, acm, nature, etc. if you prefer
   # bibliography_template: bibliography  # uncomment if you later add a custom template
 
 # defaults:

@@ -7,7 +7,10 @@
 {% if items and items.size > 0 %}
 <ul>
   {% for n in items %}
-    <li><strong>{{ n.date | date: "%b %d, %Y" }}</strong> — {{ n.text }}</li>
+    <li>
+      <strong>{{ n.date | date: "%b-%Y" }}</strong>
+      — {{ n.text | markdownify | strip_newlines | replace: '<p>', '' | replace: '</p>', '' }}
+    </li>
   {% endfor %}
 </ul>
 {% else %}
