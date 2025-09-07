@@ -6,32 +6,32 @@ description: "Short bio here."
 url: "https://akylasstrat.github.io"
 baseurl: ""   # must match the repo name with a leading slash
 
-markdown: kramdown
-permalink: /:categories/:title/
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-scholar
-
-scholar:
-  source: ./_bibliography
-  bibliography: papers.bib
-  style: apa
-  sort_by: year
-  order: descending
-  # Optional: use our custom item template below
-  bibliography_template: bib
-
-
-## collections:
-##   talks:
-##     output: true
-##     permalink: /talks/:name/
+# markdown: kramdown
+# permalink: /:categories/:title/
 
 # plugins:
 #  - jekyll-feed
 #  - jekyll-sitemap
 #  - jekyll-seo-tag
-#  # - jekyll-scholar
+#  - jekyll-scholar
+
+#scholar:
+#  source: ./_bibliography
+#  bibliography: papers.bib
+#  style: apa
+#  sort_by: year
+#  order: descending
+#  # Optional: use our custom item template below
+#  bibliography_template: bib
+
+
+# collections:
+#   talks:
+#     output: true
+#     permalink: /talks/:name/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  # - jekyll-scholar
