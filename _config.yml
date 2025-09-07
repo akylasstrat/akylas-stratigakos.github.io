@@ -6,32 +6,32 @@ description: "Short bio here."
 url: "https://akylasstrat.github.io"
 baseurl: ""   # must match the repo name with a leading slash
 
-# collections:
-#   talks:
-#     output: true
-#     permalink: /talks/:name/
+markdown: kramdown
+permalink: /:categories/:title/
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  # - jekyll-scholar
+  - jekyll-scholar
+
+scholar:
+  source: ./_bibliography
+  bibliography: papers.bib
+  style: apa
+  sort_by: year
+  order: descending
+  # Optional: use our custom item template below
+  bibliography_template: bib
 
 
-# scholar:
-#   source: ./_bibliography
-#   bibliography: papers.bib
-#   style: apa                # change to ieee, acm, nature, etc. if you prefer
-  # bibliography_template: bibliography  # uncomment if you later add a custom template
+## collections:
+##   talks:
+##     output: true
+##     permalink: /talks/:name/
 
-# defaults:
-#   - scope: { path: "_posts" }
-#     values:
-#       layout: post
-#       author: "Akylas Stratigakos"
-#   - scope: { path: "_pages" }
-#     values:
-#       layout: page
-#   - scope: { path: "_talks" }
-#     values:
-#       layout: talk
+# plugins:
+#  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-seo-tag
+#  # - jekyll-scholar
