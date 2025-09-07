@@ -1,0 +1,1317 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{bergmeir2025predict}{article}{}
+      \name{author}{28}{}{%
+        {{hash=fb7be81f0574878d688bb03f0abb8502}{%
+           family={Bergmeir},
+           familyi={B\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ebda026867d5c413d5f5eb079591938b}{%
+           family={De\bibnamedelima Nijs},
+           familyi={D\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Frits},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3b4eb70cd579502061f41fd397962e72}{%
+           family={Genov},
+           familyi={G\bibinitperiod},
+           given={Evgenii},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d1da55f4872f1b0b126d83d81374507d}{%
+           family={Sriramulu},
+           familyi={S\bibinitperiod},
+           given={Abishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d5cf2e0c7755e4ece105091c59a2c499}{%
+           family={Abolghasemi},
+           familyi={A\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bd8207b9d87828e72c9dee99dbc47d01}{%
+           family={Bean},
+           familyi={B\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e74d5b697532711f595f986e7442ce7e}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ba34a7af755a70dbe3786c4772bbfa3e}{%
+           family={Bui},
+           familyi={B\bibinitperiod},
+           given={Quang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=13e01bb89380c8c76221a8b8e12387a8}{%
+           family={Dinh},
+           familyi={D\bibinitperiod},
+           given={Nam\bibnamedelima Trong},
+           giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=87bd1f0a1db773735de5a43cff5ea348}{%
+           family={Einecke},
+           familyi={E\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d19f6fd2bd55dd95a039fb0f402a1c99}{%
+           family={Esmaeilbeigi},
+           familyi={E\bibinitperiod},
+           given={Rasul},
+           giveni={R\bibinitperiod}}}%
+        {{hash=41ee293e94a3fe4a8a8e377a872c1e57}{%
+           family={Ferraro},
+           familyi={F\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b0a5d1004b413f8a3f721da19ac613c7}{%
+           family={Galketiya},
+           familyi={G\bibinitperiod},
+           given={Priya},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b32affa3a46adfb9e6dab30664a8c0ee}{%
+           family={Glasgow},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=823c47439cc1a1d6055de59fcb47c2e2}{%
+           family={Godahewa},
+           familyi={G\bibinitperiod},
+           given={Rakshitha},
+           giveni={R\bibinitperiod}}}%
+        {{hash=19cdef69ea6e417b04dbe89b2bca786b}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Yanfei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3dd807860256161eee87708fdc34b2a4}{%
+           family={Limmer},
+           familyi={L\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e3f81f7eab8d1ec3efc3d24c997c8597}{%
+           family={Magdalena},
+           familyi={M\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7a04e9ade70a01d5159c482b28d53fcb}{%
+           family={Montero-Manso},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={Pablo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cc8402c1fd422b6de1b23c3ecc4403e3}{%
+           family={Peralta},
+           familyi={P\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=17377914dc3626e78ec8dc03f24d556d}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Yogesh\bibnamedelimb Pipada\bibnamedelima Sunil},
+           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=5488f6ed9026f18b3ef970755f2a72ff}{%
+           family={Rosales-Pérez},
+           familyi={R\bibinithyphendelim P\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=61cc4d67b6e4813c5e891a6a4c483a54}{%
+           family={Ruddick},
+           familyi={R\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7d5ee57fae417e7cda0df04398a1f53f}{%
+           family={Stuckey},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f4ecd3e607538c8de706243236279c77}{%
+           family={Tack},
+           familyi={T\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod}}}%
+        {{hash=096ea0790108340892ddefe82476bc50}{%
+           family={Triguero},
+           familyi={T\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+        {{hash=063f122615156cb6eedd354b541c3d6a}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8f58b862d412017af28a340c6b81f9b}
+      \strng{fullhash}{14ca4e9d0704afb99e716b3503b7088a}
+      \strng{bibnamehash}{14ca4e9d0704afb99e716b3503b7088a}
+      \strng{authorbibnamehash}{14ca4e9d0704afb99e716b3503b7088a}
+      \strng{authornamehash}{b8f58b862d412017af28a340c6b81f9b}
+      \strng{authorfullhash}{14ca4e9d0704afb99e716b3503b7088a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Predict+Optimize Problem in Renewable Energy Scheduling.}
+      \field{year}{2025}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2025.3555393
+      \endverb
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{24}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2025adaptive}{article}{}
+      \name{author}{2}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5b8e0c136de286fc5a3f01c137855e4d}{%
+           family={Andrianesis},
+           familyi={A\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{45e0f398704592737ca946cefe499f29}
+      \strng{fullhash}{45e0f398704592737ca946cefe499f29}
+      \strng{bibnamehash}{45e0f398704592737ca946cefe499f29}
+      \strng{authorbibnamehash}{45e0f398704592737ca946cefe499f29}
+      \strng{authornamehash}{45e0f398704592737ca946cefe499f29}
+      \strng{authorfullhash}{45e0f398704592737ca946cefe499f29}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{title}{{Learning Data-Driven Uncertainty Set Partitions for Robust and Adaptive Energy Forecasting with Missing Data}}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2503.20410
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2503.20410
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2503.20410
+      \endverb
+      \keyw{preprint}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2025levelset}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=870942e745f0a5a3d17fffbd9161820f}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Honglin},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7af782ef397265bd7f0f0498fedf615a}{%
+           family={Spyrou},
+           familyi={S\bibinitperiod},
+           given={Elina},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f868152a252ba8f399a537f3a95cf9f3}{%
+           family={Pinson},
+           familyi={P\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{b07cec55acab33da66d3ad907021c8e3}
+      \strng{bibnamehash}{b07cec55acab33da66d3ad907021c8e3}
+      \strng{authorbibnamehash}{b07cec55acab33da66d3ad907021c8e3}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{b07cec55acab33da66d3ad907021c8e3}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{working paper or preprint}
+      \field{title}{{Level Set Forecasting for Power System Operations}}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{preprint}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{esig_webinar}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c6150057668243ba6470b9817cec1b31}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Wangkun},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Energy Systems Integration Group}%
+      }
+      \strng{namehash}{f94874e0cbbf299fae0e8ce41740607f}
+      \strng{fullhash}{f94874e0cbbf299fae0e8ce41740607f}
+      \strng{bibnamehash}{f94874e0cbbf299fae0e8ce41740607f}
+      \strng{authorbibnamehash}{f94874e0cbbf299fae0e8ce41740607f}
+      \strng{authornamehash}{f94874e0cbbf299fae0e8ce41740607f}
+      \strng{authorfullhash}{f94874e0cbbf299fae0e8ce41740607f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{2}
+      \field{note}{Invited webinar}
+      \field{title}{{Energy forecasting} for reliable power system operations}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.esig.energy/event/reliable-energy-forecasting/
+      \endverb
+      \verb{url}
+      \verb https://www.esig.energy/event/reliable-energy-forecasting/
+      \endverb
+      \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{vancaelenberg2025networkaware}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c5bcd6a6fca8d9853318ce4ded6aae2b}{%
+           family={Van\bibnamedelima Caelenberg},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7af782ef397265bd7f0f0498fedf615a}{%
+           family={Spyrou},
+           familyi={S\bibinitperiod},
+           given={Elina},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{60d5e42469f08f0506fa8789259a98d6}
+      \strng{fullhash}{60d5e42469f08f0506fa8789259a98d6}
+      \strng{bibnamehash}{60d5e42469f08f0506fa8789259a98d6}
+      \strng{authorbibnamehash}{60d5e42469f08f0506fa8789259a98d6}
+      \strng{authornamehash}{60d5e42469f08f0506fa8789259a98d6}
+      \strng{authorfullhash}{60d5e42469f08f0506fa8789259a98d6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{note}{working paper or preprint}
+      \field{title}{{Dynamic Network-aware Reserves Procurement via Adversarial Deployment Scenarios}}
+      \field{year}{2025}
+      \true{nocite}
+      \keyw{preprint}
+      \annotation{item}{author}{default}{2}{}{0}{highlight}
+    \endentry
+    \entry{krommydas2024battery}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=ed725ee790d8e8901f95b0696efb3679}{%
+           family={Krommydas},
+           familyi={K\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=32ba83d542cba0dc3d17b4000d12cf57}{%
+           family={Chassioti},
+           familyi={C\bibinitperiod},
+           given={Efthimia},
+           giveni={E\bibinitperiod}}}%
+        {{hash=505a35a365af41cda282c930b26b0a27}{%
+           family={Moraitis},
+           familyi={M\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Athens, Greece}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f72f7cc5c2f02795259c68f24475be3d}
+      \strng{fullhash}{a5029d5fdf4c19810b8a994324fcf1e6}
+      \strng{bibnamehash}{a5029d5fdf4c19810b8a994324fcf1e6}
+      \strng{authorbibnamehash}{a5029d5fdf4c19810b8a994324fcf1e6}
+      \strng{authornamehash}{f72f7cc5c2f02795259c68f24475be3d}
+      \strng{authorfullhash}{a5029d5fdf4c19810b8a994324fcf1e6}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{14th Mediterranean Conference on Power Generation Transmission, Distribution and Energy Conversion}}
+      \field{month}{12}
+      \field{title}{A Two-Stage Stochastic Unit-Commitment Formulation for Evaluating the Impact of Battery Energy Storage Systems on Reserve Requirements}
+      \field{year}{2024}
+      \true{nocite}
+      \keyw{peerconf}
+      \annotation{item}{author}{default}{2}{}{0}{highlight}
+    \endentry
+    \entry{krommydas2024two}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=51ffe12283957682ef696b969d04f760}{%
+           family={Krommydas},
+           familyi={K\bibinitperiod},
+           given={Konstantinos\bibnamedelima F},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=63cc390f901509f4423fa1d1318a693c}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=32ba83d542cba0dc3d17b4000d12cf57}{%
+           family={Chassioti},
+           familyi={C\bibinitperiod},
+           given={Efthimia},
+           giveni={E\bibinitperiod}}}%
+        {{hash=505a35a365af41cda282c930b26b0a27}{%
+           family={Moraitis},
+           familyi={M\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IET}%
+      }
+      \strng{namehash}{dbb43e0ffd66bc120be0791b361d4a03}
+      \strng{fullhash}{a2af8d0530ab51135297d02e4a2b0339}
+      \strng{bibnamehash}{a2af8d0530ab51135297d02e4a2b0339}
+      \strng{authorbibnamehash}{a2af8d0530ab51135297d02e4a2b0339}
+      \strng{authornamehash}{dbb43e0ffd66bc120be0791b361d4a03}
+      \strng{authorfullhash}{a2af8d0530ab51135297d02e4a2b0339}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IET Conference Proceedings CP904}
+      \field{number}{29}
+      \field{title}{A two-stage stochastic unit-commitment formulation for evaluating the impact of battery energy storage systems on reserve requirements}
+      \field{volume}{2024}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{684\bibrangedash 689}
+      \range{pages}{6}
+      \keyw{peerconf}
+      \annotation{item}{author}{default}{2}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2024combination}{article}{}
+      \name{author}{3}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a3216c06ac0374b14b121f211ec9c564}{%
+           family={Pineda},
+           familyi={P\bibinitperiod},
+           given={Salvador},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6d0b8a7e1fc991d42d96c44ca4d6c75b}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Juan\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a925018aa71fa625bff9056b65e763c}
+      \strng{fullhash}{1a925018aa71fa625bff9056b65e763c}
+      \strng{bibnamehash}{1a925018aa71fa625bff9056b65e763c}
+      \strng{authorbibnamehash}{1a925018aa71fa625bff9056b65e763c}
+      \strng{authornamehash}{1a925018aa71fa625bff9056b65e763c}
+      \strng{authorfullhash}{1a925018aa71fa625bff9056b65e763c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0169-2070}
+      \field{journaltitle}{International Journal of Forecasting}
+      \field{title}{Decision-focused linear pooling for probabilistic forecast combination}
+      \field{year}{2024}
+      \true{nocite}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijforecast.2024.11.006
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169207024001213
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0169207024001213
+      \endverb
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2024interpretable}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a3216c06ac0374b14b121f211ec9c564}{%
+           family={Pineda},
+           familyi={P\bibinitperiod},
+           given={Salvador},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6d0b8a7e1fc991d42d96c44ca4d6c75b}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Juan\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{60586b4614b10d45493755438614818d}
+      \strng{bibnamehash}{60586b4614b10d45493755438614818d}
+      \strng{authorbibnamehash}{60586b4614b10d45493755438614818d}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{60586b4614b10d45493755438614818d}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Power Systems}
+      \field{number}{3}
+      \field{title}{Interpretable Machine Learning for DC Optimal Power Flow With Feasibility Guarantees}
+      \field{volume}{39}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{5126\bibrangedash 5137}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TPWRS.2023.3333165
+      \endverb
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{kuhnau2023resilient}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=e1344891c584c8cf1dc21aa83dc46a82}{%
+           family={Kühnau},
+           familyi={K\bibinitperiod},
+           given={Matias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c33fcb6f63eb8df124a2ebee14d5a9e}{%
+           family={Camal},
+           familyi={C\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=25839a761f06baeddf31a9328d04b239}{%
+           family={Chevalier},
+           familyi={C\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{d212cab4cf659c72f413abba59447530}
+      \strng{fullhash}{c8969b431d2835f0916a849463f9adfb}
+      \strng{bibnamehash}{c8969b431d2835f0916a849463f9adfb}
+      \strng{authorbibnamehash}{c8969b431d2835f0916a849463f9adfb}
+      \strng{authornamehash}{d212cab4cf659c72f413abba59447530}
+      \strng{authorfullhash}{c8969b431d2835f0916a849463f9adfb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 {IEEE} {P}ower \& {E}nergy {S}ociety {I}nnovative {S}mart {G}rid {T}echnologies conference (ISGT)}
+      \field{title}{{Resilient Feature-driven Trading of Renewable Energy with Missing Data}}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://hal.science/hal-04104548
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-04104548
+      \endverb
+      \keyw{peerconf}
+      \annotation{item}{author}{default}{2}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos_thesis}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Université Paris sciences et lettres}%
+      }
+      \strng{namehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{fullhash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{bibnamehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{authorbibnamehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{authornamehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{authorfullhash}{c0991f4361f458fa75b7c8492b17df27}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{number}{2023UPSLM024}
+      \field{title}{{Towards the Prescriptive Analytics Paradigm for Energy Forecasting and Power System Optimization}}
+      \field{type}{Theses}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{file}
+      \verb https://pastel.hal.science/tel-04250526/file/2023UPSLM024_archivage.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pastel.hal.science/tel-04250526
+      \endverb
+      \verb{url}
+      \verb https://pastel.hal.science/tel-04250526
+      \endverb
+      \keyw{monographs}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2023resilient}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5b8e0c136de286fc5a3f01c137855e4d}{%
+           family={Andrianesis},
+           familyi={A\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1ba71fdec50604d979205e35691a5bfd}{%
+           family={Michiorri},
+           familyi={M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{9db6641369448bc20df6e60768e5876a}
+      \strng{bibnamehash}{9db6641369448bc20df6e60768e5876a}
+      \strng{authorbibnamehash}{9db6641369448bc20df6e60768e5876a}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{9db6641369448bc20df6e60768e5876a}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Smart Grid}
+      \field{title}{Towards Resilient Energy Forecasting: A Robust Optimization Approach}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/TSG.2023.3272379
+      \endverb
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2023datapooling}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6d0b8a7e1fc991d42d96c44ca4d6c75b}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Juan\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a3216c06ac0374b14b121f211ec9c564}{%
+           family={Pineda},
+           familyi={P\bibinitperiod},
+           given={Salvador},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{2369e51b8f86df98aa853aece59fb9df}
+      \strng{bibnamehash}{2369e51b8f86df98aa853aece59fb9df}
+      \strng{authorbibnamehash}{2369e51b8f86df98aa853aece59fb9df}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{2369e51b8f86df98aa853aece59fb9df}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{note}{working paper or preprint}
+      \field{title}{{Decision-Focused Data Pooling for Contextual Stochastic Optimization}}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{file}
+      \verb https://hal.science/hal-04268454/file/data-pooling-main.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.science/hal-04268454
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-04268454
+      \endverb
+      \keyw{preprint}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{krommydas2022flexibility}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ed725ee790d8e8901f95b0696efb3679}{%
+           family={Krommydas},
+           familyi={K\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=bf1fa87a64ec83c4ae8979881f75c2c0}{%
+           family={Dikaiakos},
+           familyi={D\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=79ec30db31ebeb2c17b665c47a28ef00}{%
+           family={Papaioannou},
+           familyi={P\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{f72f7cc5c2f02795259c68f24475be3d}
+      \strng{fullhash}{ab5f7e1c0cbe9596a071061227a00909}
+      \strng{bibnamehash}{ab5f7e1c0cbe9596a071061227a00909}
+      \strng{authorbibnamehash}{ab5f7e1c0cbe9596a071061227a00909}
+      \strng{authornamehash}{f72f7cc5c2f02795259c68f24475be3d}
+      \strng{authorfullhash}{ab5f7e1c0cbe9596a071061227a00909}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electric Power Systems Research}
+      \field{title}{Flexibility study of the Greek power system using a stochastic programming approach for estimating reserve requirements}
+      \field{volume}{213}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{108620}
+      \range{pages}{1}
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{4}{}{0}{highlight}
+    \endentry
+    \entry{krommydas}{article}{}
+      \name{author}{6}{}{%
+        {{hash=51ffe12283957682ef696b969d04f760}{%
+           family={Krommydas},
+           familyi={K\bibinitperiod},
+           given={Konstantinos\bibnamedelima F.},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=63cc390f901509f4423fa1d1318a693c}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0d4bdd98015ce92a1634ac11c0f2602c}{%
+           family={Dikaiakos},
+           familyi={D\bibinitperiod},
+           given={Christos\bibnamedelima N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=0d05ffaa6d27a2c040bd2d0959dbaf00}{%
+           family={Papaioannou},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e8a8438f6d25e532ba0f73006f149144}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Martin\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f6f2b4de004348856a4ce96a6b97441b}{%
+           family={McLoughlin},
+           familyi={M\bibinitperiod},
+           given={Grace\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbb43e0ffd66bc120be0791b361d4a03}
+      \strng{fullhash}{79676aeba6aba8cf522f49923df840a0}
+      \strng{bibnamehash}{79676aeba6aba8cf522f49923df840a0}
+      \strng{authorbibnamehash}{79676aeba6aba8cf522f49923df840a0}
+      \strng{authornamehash}{dbb43e0ffd66bc120be0791b361d4a03}
+      \strng{authorfullhash}{79676aeba6aba8cf522f49923df840a0}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{A Novel Modular Mobile Power Flow Controller for Real-Time Congestion Management Tested on a 150kV Transmission System}
+      \field{volume}{10}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{96414\bibrangedash 96426}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2022.3205589
+      \endverb
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{2}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2022making}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5b8e0c136de286fc5a3f01c137855e4d}{%
+           family={Andrianesis},
+           familyi={A\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1ba71fdec50604d979205e35691a5bfd}{%
+           family={Michiorri},
+           familyi={M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, United Kingdom}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{9db6641369448bc20df6e60768e5876a}
+      \strng{bibnamehash}{9db6641369448bc20df6e60768e5876a}
+      \strng{authorbibnamehash}{9db6641369448bc20df6e60768e5876a}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{9db6641369448bc20df6e60768e5876a}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{42nd Int. Symp. on Forecasting}}
+      \field{month}{7}
+      \field{note}{\faStar Best Student Presentation Award}
+      \field{title}{{Making Energy Forecasting Resilient to Missing Features: a Robust Optimization Approach }}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://minesparis-psl.hal.science/hal-03718668
+      \endverb
+      \verb{url}
+      \verb https://minesparis-psl.hal.science/hal-03718668
+      \endverb
+      \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2022prescriptive}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c33fcb6f63eb8df124a2ebee14d5a9e}{%
+           family={Camal},
+           familyi={C\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1ba71fdec50604d979205e35691a5bfd}{%
+           family={Michiorri},
+           familyi={M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{4599123c01b8f49c1c453a03ff537e82}
+      \strng{bibnamehash}{4599123c01b8f49c1c453a03ff537e82}
+      \strng{authorbibnamehash}{4599123c01b8f49c1c453a03ff537e82}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{4599123c01b8f49c1c453a03ff537e82}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Power Systems}
+      \field{number}{6}
+      \field{title}{Prescriptive trees for integrated forecasting and optimization applied in trading of renewable energy}
+      \field{volume}{37}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{4696\bibrangedash 4708}
+      \range{pages}{13}
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2022endtoend}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8ded01d2380c29bd4df6331ae9d9ad0}{%
+           family={Meer},
+           familyi={M\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=1c33fcb6f63eb8df124a2ebee14d5a9e}{%
+           family={Camal},
+           familyi={C\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{ba345cdf007642c6dfd8236d7a8ebd22}
+      \strng{bibnamehash}{ba345cdf007642c6dfd8236d7a8ebd22}
+      \strng{authorbibnamehash}{ba345cdf007642c6dfd8236d7a8ebd22}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{ba345cdf007642c6dfd8236d7a8ebd22}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)}
+      \field{title}{End-to-end Learning for Hierarchical Forecasting of Renewable Energy Production with Missing Values}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/PMAPS53380.2022.9810610
+      \endverb
+      \keyw{peerconf}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2021robust}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Orlando, United States}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{fullhash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{bibnamehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{authorbibnamehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{authornamehash}{c0991f4361f458fa75b7c8492b17df27}
+      \strng{authorfullhash}{c0991f4361f458fa75b7c8492b17df27}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{IEEE Symposium Series on Computational Intelligence 2021}}
+      \field{month}{12}
+      \field{note}{Invited}
+      \field{title}{{A robust fix-and-optimize matheuristic for timetabling problems with uncertain renewable energy production}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{file}
+      \verb https://hal.science/hal-03449920/file/IEEE-CIS-Challenge-Report.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.science/hal-03449920
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-03449920
+      \endverb
+      \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos2021short}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ff9f35f0a38fb54a3630e791b2773d21}{%
+           family={Bachoumis},
+           familyi={B\bibinitperiod},
+           given={Athanasios},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c343d5b4c2055d44358749187bcbf7c8}{%
+           family={Vita},
+           familyi={V\bibinitperiod},
+           given={Vasiliki},
+           giveni={V\bibinitperiod}}}%
+        {{hash=128f9efc07cb1798eeb790a6210e5b54}{%
+           family={Zafiropoulos},
+           familyi={Z\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{1c02ebc0f2fc13cd66b72d4137bfcd66}
+      \strng{bibnamehash}{1c02ebc0f2fc13cd66b72d4137bfcd66}
+      \strng{authorbibnamehash}{1c02ebc0f2fc13cd66b72d4137bfcd66}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{1c02ebc0f2fc13cd66b72d4137bfcd66}
+      \field{extraname}{8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{14}
+      \field{title}{Short-term net load forecasting with singular spectrum analysis and LSTM neural networks}
+      \field{volume}{14}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{4107}
+      \range{pages}{1}
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{stratigakos:hal-03238445}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6210819cd3a97f8d08ed24333d6243eb}{%
+           family={Camal},
+           familyi={C\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bfe86e97fa98cc0d517497c5a293a292}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hannover, Germany}%
+      }
+      \strng{namehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{fullhash}{da4455ba5147a78edfe08e9ce46a6562}
+      \strng{bibnamehash}{da4455ba5147a78edfe08e9ce46a6562}
+      \strng{authorbibnamehash}{da4455ba5147a78edfe08e9ce46a6562}
+      \strng{authornamehash}{0befba73afe5dfca76e123548e8ee11d}
+      \strng{authorfullhash}{da4455ba5147a78edfe08e9ce46a6562}
+      \field{extraname}{9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Wind Energy Science Conference}}
+      \field{month}{5}
+      \field{title}{{Short-term trading of wind energy production using data-driven prescriptive optimization}}
+      \field{year}{2021}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://hal.science/hal-03238445
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-03238445
+      \endverb
+      \keyw{presentation}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{9494832}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=c0991f4361f458fa75b7c8492b17df27}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1ba71fdec50604d979205e35691a5bfd}{%
+           family={Michiorri},
+           familyi={M\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d2cc1e53062a542bef73307dec3ea7bb}{%
+           family={Kariniotakis},
+           familyi={K\bibinitperiod},
+           given={Georges},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{87af25201ef08ff619697b65bd0c1253}
+      \strng{fullhash}{87af25201ef08ff619697b65bd0c1253}
+      \strng{bibnamehash}{87af25201ef08ff619697b65bd0c1253}
+      \strng{authorbibnamehash}{87af25201ef08ff619697b65bd0c1253}
+      \strng{authornamehash}{87af25201ef08ff619697b65bd0c1253}
+      \strng{authorfullhash}{87af25201ef08ff619697b65bd0c1253}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE Madrid PowerTech}
+      \field{title}{A Value-Oriented Price Forecasting Approach to Optimize Trading of Renewable Generation}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/PowerTech46648.2021.9494832
+      \endverb
+      \keyw{peerconf}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+    \entry{krommydas2020improved}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=51ffe12283957682ef696b969d04f760}{%
+           family={Krommydas},
+           familyi={K\bibinitperiod},
+           given={Konstantinos\bibnamedelima F},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=63cc390f901509f4423fa1d1318a693c}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bf1fa87a64ec83c4ae8979881f75c2c0}{%
+           family={Dikaiakos},
+           familyi={D\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0d05ffaa6d27a2c040bd2d0959dbaf00}{%
+           family={Papaioannou},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=128f9efc07cb1798eeb790a6210e5b54}{%
+           family={Zafiropoulos},
+           familyi={Z\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f565d9b7c8459dfdbd7613393671e666}{%
+           family={Ekonomou},
+           familyi={E\bibinitperiod},
+           given={Lambros},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dbb43e0ffd66bc120be0791b361d4a03}
+      \strng{fullhash}{c0f342afcbabb94b1e56ee030c49dfc4}
+      \strng{bibnamehash}{c0f342afcbabb94b1e56ee030c49dfc4}
+      \strng{authorbibnamehash}{c0f342afcbabb94b1e56ee030c49dfc4}
+      \strng{authornamehash}{dbb43e0ffd66bc120be0791b361d4a03}
+      \strng{authorfullhash}{c0f342afcbabb94b1e56ee030c49dfc4}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Flexitranstore}
+      \field{title}{An improved flexibility metric based on kernel density estimators applied on the Greek power system}
+      \field{volume}{610}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{35\bibrangedash 46}
+      \range{pages}{12}
+      \keyw{peerconf}
+      \annotation{item}{author}{default}{2}{}{0}{highlight}
+    \endentry
+    \entry{papaioannou2019testing}{article}{}
+      \name{author}{5}{}{%
+        {{hash=0d05ffaa6d27a2c040bd2d0959dbaf00}{%
+           family={Papaioannou},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=bf1fa87a64ec83c4ae8979881f75c2c0}{%
+           family={Dikaiakos},
+           familyi={D\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=63cc390f901509f4423fa1d1318a693c}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ea1d091662ef92d69cd7ee775ac5f5d2}{%
+           family={Papageorgiou},
+           familyi={P\bibinitperiod},
+           given={Panos\bibnamedelima C},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=51ffe12283957682ef696b969d04f760}{%
+           family={Krommydas},
+           familyi={K\bibinitperiod},
+           given={Konstantinos\bibnamedelima F},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{9728c5382c9cea98ae3c57fd79587e34}
+      \strng{fullhash}{488288c443e3390468ab0c1fb83e20ba}
+      \strng{bibnamehash}{488288c443e3390468ab0c1fb83e20ba}
+      \strng{authorbibnamehash}{488288c443e3390468ab0c1fb83e20ba}
+      \strng{authornamehash}{9728c5382c9cea98ae3c57fd79587e34}
+      \strng{authorfullhash}{488288c443e3390468ab0c1fb83e20ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energies}
+      \field{number}{4}
+      \field{title}{Testing the efficiency of electricity markets using a new composite measure based on nonlinear TS Tools}
+      \field{volume}{12}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{618}
+      \range{pages}{1}
+      \keyw{peerjournal}
+      \annotation{item}{author}{default}{3}{}{0}{highlight}
+    \endentry
+    \entry{8861888}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=63cc390f901509f4423fa1d1318a693c}{%
+           family={Stratigakos},
+           familyi={S\bibinitperiod},
+           given={Akylas\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=51ffe12283957682ef696b969d04f760}{%
+           family={Krommydas},
+           familyi={K\bibinitperiod},
+           given={Konstantinos\bibnamedelima F.},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ea1d091662ef92d69cd7ee775ac5f5d2}{%
+           family={Papageorgiou},
+           familyi={P\bibinitperiod},
+           given={Panos\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=bf1fa87a64ec83c4ae8979881f75c2c0}{%
+           family={Dikaiakos},
+           familyi={D\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0d05ffaa6d27a2c040bd2d0959dbaf00}{%
+           family={Papaioannou},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6e5dba7d8adbfa148b3a76f57188cf2}
+      \strng{fullhash}{7286c3c8c7319d325c394e47250b7486}
+      \strng{bibnamehash}{7286c3c8c7319d325c394e47250b7486}
+      \strng{authorbibnamehash}{7286c3c8c7319d325c394e47250b7486}
+      \strng{authornamehash}{d6e5dba7d8adbfa148b3a76f57188cf2}
+      \strng{authorfullhash}{7286c3c8c7319d325c394e47250b7486}
+      \field{extraname}{10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE EUROCON 2019 -18th International Conference on Smart Technologies}
+      \field{title}{A Suitable Flexibility Assessment Approach for the Pre-Screening Phase of Power System Planning Applied on the Greek Power System}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \keyw{peerconf}
+      \annotation{item}{author}{default}{1}{}{0}{highlight}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

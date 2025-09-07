@@ -1,0 +1,246 @@
+% !TEX root = akylas-cv.tex
+\documentclass[11pt,a4paper]{article}
+
+% ---------- Basics & layout ----------
+\usepackage[margin=.7in]{geometry}
+\usepackage{lmodern}            % vector fonts for pdflatex
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{parskip}            % no paragraph indents
+\usepackage{enumitem}
+\setlist[itemize]{topsep=2pt,itemsep=2pt,parsep=0pt}
+\usepackage{longtable,tabularx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  citecolor=black,
+  urlcolor=blue
+}
+\usepackage{titlesec}
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\titlerule]
+
+% ---------- BibLaTeX ----------
+
+% \usepackage[backend=biber,
+% bibstyle=numeric,sorting=ydnt,sortcites=true,natbib=true,defernumbers=true,
+% maxbibnames=99,giveninits=true,uniquename=false]{biblatex}
+\usepackage[backend=biber,
+bibstyle=numeric,sorting=ydnt,sortcites=true,natbib=true,defernumbers=true,
+maxbibnames=99,giveninits=true,uniquename=false]{biblatex}
+% \usepackage[backend=biber,style=authoryear,sorting=ydnt,maxnames=10]{biblatex}
+\addbibresource{publications.bib}
+\renewcommand*{\bibfont}{\normalfont\small}
+% \renewcommand*{\mkbibnamegiven}[1]{
+% \ifitemannotation{highlight}
+% {\textbf{#1}}
+% {#1}}
+
+% Filter publications by keyword
+% In your .bib, add: keywords = {journal} or {conference} or {preprint}, etc.
+\defbibheading{sub}{\subsection*{#1}}
+
+% ---------- Handy environments ----------
+\newlength{\datecolwidth}
+\setlength{\datecolwidth}{3.4cm} % change to make the dates column wider/narrower
+
+\newenvironment{entrylist}{%
+  \begin{longtable}{@{}p{\datecolwidth}@{\hspace{0.8em}}p{\dimexpr\linewidth-\datecolwidth-0.8em\relax}@{}}%
+}{\end{longtable}}
+
+% \entry{DATES}{HEADING}{INSTITUTION / PLACE}{DETAILS (can be empty)}
+\newcommand{\entry}[4]{%
+  \textbf{#1} & \textbf{#2}\\[-0.2em]
+              & {\itshape #3}\\[-0.2em]
+              & #4\\[0.8em]
+}
+
+% --- Style for labels in the left (date) column ---
+\newcommand{\labelstyle}[1]{\textsc{#1}}   % small caps; change to \textbf if you prefer bold
+
+% --- Entry where left margin shows a label (no date), and right column is freeform content ---
+% Usage: \entrylabel{LABEL}{Right-hand content (paragraphs, itemize, dates inside text, etc.)}
+\newcommand{\entrylabel}[2]{%
+  \labelstyle{#1} & #2\\[0.8em]
+}
+
+% --- Full-width note spanning both columns (optional helper) ---
+% Usage: \entryfull{Some paragraph that should span full width.}
+\newcommand{\entryfull}[1]{%
+  \multicolumn{2}{@{}p{\linewidth}@{}}{#1}\\[0.8em]
+}
+
+% ---------- Header ----------
+\newcommand{\name}{Akylas Stratigakos}
+\newcommand{\affiliation}{UCL Energy Institute, University College London}
+\newcommand{\emailaddr}{a.stratigakos@ucl.ac.uk}
+\newcommand{\website}{https://akylasstrat.github.io}
+\newcommand{\scholar}{https://scholar.google.com/citations?user=RBrai44AAAAJ&hl=en}   % your scholar profile
+\newcommand{\orcid}{https://orcid.org/0000-0002-9954-5558}
+\newcommand{\github}{https://github.com/akylasstrat}
+
+\begin{document}
+\begin{center}
+  {\LARGE \name}\\[2pt]
+  \affiliation\\[6pt]
+  \href{mailto:\emailaddr}{\emailaddr} \,|\, \href{\website}{\website} \,|\,
+  \href{\scholar}{Google Scholar} \,|\, \href{\orcid}{ORCID} \,|\, \href{\github}{GitHub}
+\end{center}
+
+\section*{Research Interests}
+
+My research develops and validates novel predictive and prescriptive analytics methods,
+ leveraging machine learning, operations research, and statistics, 
+ to rapidly improve the planning and operations of low-carbon power and energy systems, 
+ reducing consumer costs and accelerating decarbonization. 
+%  Using the data available due to grid digitalization, 
+%  I develop cutting-edge algorithmic solutions for fast and reliable decisions under uncertainty, 
+%  which can improve system operations and defer large investment costs associated with infrastructure upgrades.
+
+
+% ---------- Appointments ----------
+\section*{Academic Appointments}
+\begin{entrylist}
+  \entry{08/2025 -}{Lecturer (Assistant Professor)}{UCL Energy Institute, University College London, UK}{
+    Energy Systems and Data Analytics
+  }
+  \entry{10/2023 - 07/2025}{Research Associate}{EEE Department, Imperial College London, UK}{
+    % \vspace{-0.4em}\begin{itemize}
+%     \item Accelerating the transition toward 100\% renewable-based grid with innovative data-driven and AI-based methods.
+%     \item Leading research on machine learning for low-carbon power systems within the UK - Electric Power Innovation for a
+%       Carbon-free Society Center (UK-EPICS).
+%     \item Co-supervising a PhD student, supervising undergraduate and graduate students, assisting and mentoring group members,
+% and developing coursework.
+%   \end{itemize}
+  }
+\end{entrylist}
+
+% ---------- Education ----------
+\section*{Education}
+\begin{entrylist}
+  \entry{2023}{Ph.D., Energy and Processes}{Mines Paris, PSL Univesity, Sophia Antipolis, FR}
+  {\emph{Thesis}: Towards the Prescriptive Analytics Paradigm for Energy Forecasting and Power System Optimization}
+  \entry{2016}{Meng, Electrical and Computer Engineering}{University of Patras, Patras, GR}{
+    Specialization: Power Systems, Control}
+\end{entrylist}
+
+% ---------- Visiting ----------
+\section*{Visiting Positions}
+\begin{entrylist}
+  \entry{09/2022 - 01/2023}{Visiting Researcher}{OASYS Research Group, University of Malaga, ES}{}
+\end{entrylist}
+
+% ---------- Publications (from BibTeX) ----------
+\section*{Publications}
+
+\nocite{*}
+
+\subsection*{Journal Articles}
+\printbibliography[keyword=peerjournal,heading=none]
+
+\subsection*{Conference Papers}
+\printbibliography[keyword=peerconf,heading=none]
+
+\subsection*{Preprints}
+\printbibliography[keyword=preprint,heading=none]
+
+\subsection*{Thesis}
+\printbibliography[heading = none, keyword=monographs]
+
+% \subsection*{Selected Talks and Presentations}
+% \printbibliography[heading = none, keyword=presentation]
+
+% ---------- Industry ----------
+\section*{Industry Experience}
+\begin{entrylist}
+  \entry{09/2017 - 05/2020}{Research and Development Engineer}{Independent Power Transmission Operator (IPTO), Athens, GR}{
+    \begin{itemize}
+      \vspace{-0.4em}
+      \item Developed tools to assess system flexibility under high renewable penetration.
+      \item Coordinated successfully installing an innovative power flow controller.
+      % \item Developed a reliable short-term load forecasting tool, increasing forecast accuracy by 5\%.
+      \item Contribution to Horizon 2020 projects.
+    \end{itemize}
+  }
+  \entry{01/2022 - 06/2023}{Data Scientist - Volunteer}{GIVMED, N.G.O., Athens, GR}{
+    \begin{itemize}
+      \vspace{-0.4em}
+%       \item Redistributing surplus medical supplies to socially vulnerable groups, improving
+% access to vital resources, and addressing healthcare inequalities.
+      \item Redistributing surplus medical supplies to socially vulnerable groups and addressing healthcare inequalities through data analytics.
+    \end{itemize}  }
+
+\end{entrylist}
+
+% ---------- Grants, Awards, etc. ----------
+\section*{Grants \& Awards}
+\begin{entrylist}
+  \entry{2024}{Best Thesis Award}{Think Smartgrids Association}{}
+  \entry{2022}{Best Student Presentation \& Travel Grant Award}{42nd International Symposium on Forecasting}{}
+\end{entrylist}
+
+% % ---------- Teaching ----------
+% \section*{Teaching}
+% \begin{entrylist}
+%   \entry{2023--}{Course Title}{Institution}{Role and brief description.}
+% \end{entrylist}
+
+\section*{Leadership and Service}
+\begin{entrylist}
+    \entrylabel{Supervision}{%
+    PhD: 1.
+    MSc: 2.
+    BSc/MEng: 2.
+  }
+  % Reviewer service: label in the margin, list in the right column
+  \entrylabel{Reviewer}{%
+    \emph{Journals:} IEEE Transactions on Smart Grids/ Power Systems/ Sustainable Energy; Electric Power Systems Research.
+    \emph{Conferences:} IEEE PES PowerTech; International Conference on Probabilistic Methods Applied to Power Systems
+(PMAPS); Power Systems Computation Conference (PSCC).
+  }
+
+  \entrylabel{Organization}{
+%     Co-organizer of the inaugural event of the CIGRE UK London Region Universities Hub, at Imperial College London,
+% London, 06/05/2025.
+
+  \textbf{Workshop:} Global Power System Transformation Consortium AI Workshop, at ICMS, Edinburgh, 19-23/02/2024 (\emph{co-organizer, session chair})
+
+  \textbf{Invited Session:} Value-oriented Forecasting, 44th International Symposium on
+Forecasting, Dijon, France (\emph{organizer, chair}).
+
+  \textbf{Seminar Series:} Inaugural event of the CIGRE UK London Region Universities Hub, at Imperial College London, 
+  London, 06/05/2025 (\emph{co-organizer}).  }
+
+  \entrylabel{Service}{
+
+  CIGRE UK London Region Universities Hub (\emph{Vice Chair}).
+
+  }
+
+\end{entrylist}
+
+
+\section*{Additional Information}
+\begin{entrylist}
+    \entrylabel{Languages}{
+      Greek (native), English (proficient), German, French (basic)}
+      \entrylabel{Software}{
+      Python, MATLAB, R, Julia}
+      \entrylabel{Memberships}{
+      IEEE, CIGRE, ESIG, International Institute of Forecasters
+  }
+% Optimization Modellers: Gurobi, CVX, YALMIP, JuMP
+% Memberships: IEEE, CIGRE, ESIG, International Institute of Forecasters
+
+\end{entrylist}
+
+% % ---------- Invited Talks ----------
+% \section*{Invited Talks}
+% \begin{entrylist}
+%   \entry{2024}{Talk Title}{Venue}{City, Country.}
+% \end{entrylist}
+
+
+\end{document}
