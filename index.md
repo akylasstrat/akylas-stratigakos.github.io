@@ -35,16 +35,18 @@ permalink: /
     <!-- Expanded About -->
     <div style="font-size:1.05rem;">
       <p>
-        Welcome to my website! My name is Akylas Stratigakos and I am currently a Lecturer (Assistant Professor) in Energy Systems and Data Analytics at the UCL Energy Institute, University College London. 
-        My research develops and validates novel predictive and prescriptive analytics methods, combining machine learning, optimization, and statistics, to support the planning and operations of low-carbon power and energy system.
+        Welcome to my website! 
+        My name is Akylas and I am currently a Lecturer (Assistant Professor) in Energy Systems and Data Analytics at the UCL Energy Institute, University College London. 
+        My research develops and validates data-driven solutions to support the planning and operations of low-carbon power and energy systems with a high penetration of renewables.
+        This involves leveraging tools from machine learning, optimization, statistics, and economics to develop novel predictive and prescriptive methods, with a view towards supporting decision-making under uncertainty. 
+        In my spare time, I work out, hike, and enjoy London's vibrant cultural scene.
       </p>
       <p>
-        What am I doing now, looking for students, hiring, etc.
-      </p>
-      <p>
-        See <a href="{{ "/publications/" | relative_url }}">Publications</a>,
+        You can find more about my research and activities in <a href="{{ "/publications/" | relative_url }}">Publications</a>,
         <a href="{{ "/talks/" | relative_url }}">Talks</a>,
-        and my <a href="{{ "/cv/" | relative_url }}">CV</a> for more details.
+        and my <a href="{{ "/cv/" | relative_url }}">CV</a>.
+        I am open to collaborations and will soon be looking to hire a PhD student. 
+        If you are mathematically inclined, curious, and passionate about data and decarbonization, feel free to reach out!
       </p>
     </div>
   </div>
