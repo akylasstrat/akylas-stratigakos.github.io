@@ -4,7 +4,7 @@
   {%- for p in items -%}
   <li class="pub">
     {{ p.authors }}.
-    <strong>{{ p.title }}</strong>.
+    {{ p.title }}.
     <em>{{ p.venue }}</em>{% if p.year %}, {{ p.year }}{% endif %}.
     {%- if p.pdf -%} [<a href="{{ p.pdf | relative_url }}">PDF</a>]{%- endif -%}
     {%- if p.doi -%}
