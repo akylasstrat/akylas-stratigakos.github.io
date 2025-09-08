@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+## Preprints
+
+{% include publist.html type="preprint" %}
+
 ## Journal Articles
 
 {% include publist.html type="journal" %}
@@ -11,7 +15,3 @@ permalink: /publications/
 ## Conference Papers
 
 {% include publist.html type="conference" %}
-
-## Preprints
-
-{% include publist.html type="preprint" %}
