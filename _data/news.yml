@@ -3,4 +3,4 @@
   text: "Excited to join [UCL Energy Institute](https://www.ucl.ac.uk/bartlett/environment-energy-resources/energy) as Lecturer in Energy Systems and Data Analytics!"
 
 - date: 2025-07-01
-  text: "I presented our work on [robust and adaptive forecasting models](https://arxiv.org/abs/2503.20410) at the [17 International Conference on Stochastic Programming](https://icsp2025.org/), which was an excellent conference."
+  text: "I presented our work on robust and adaptive forecasting ([arxiv](https://arxiv.org/abs/2503.20410)|[git repo](https://github.com/akylasstrat/wind-forecast-missing-data)) at the [17 International Conference on Stochastic Programming](https://icsp2025.org/), which was an excellent conference."
