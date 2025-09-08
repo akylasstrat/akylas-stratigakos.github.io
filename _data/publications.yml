@@ -1,0 +1,191 @@
+- type: "journal"
+  year: 2025
+  title: "{Learning Data-Driven Uncertainty Set Partitions for Robust and Adaptive Energy Forecasting with Missing Data}"
+  authors: "Akylas Stratigakos, Panagiotis Andrianesis"
+  url: "https://arxiv.org/abs/2503.20410"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2025
+  title: "{Level Set Forecasting for Power System Operations}"
+  authors: "Akylas Stratigakos, Honglin, Wen, Elina, Spyrou, Pierre Pinson"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2025
+  title: "{Dynamic Network-aware Reserves Procurement via Adversarial Deployment Scenarios}"
+  authors: "Guillaume Van Caelenberg, Akylas Stratigakos, Elina Spyrou"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2025
+  title: "Predict+Optimize Problem in Renewable Energy Scheduling."
+  authors: "Christoph Bergmeir, Frits De Nijs, Evgenii Genov, Abishek Sriramulu, Mahdi Abolghasemi, Richard Bean, John Betts, Quang Bui, Nam Trong Dinh, Nils Einecke, Rasul Esmaeilbeigi, Scott Ferraro, Priya Galketiya, Robert Glasgow, Rakshitha Godahewa, Yanfei Kang, Steffen Limmer, Luis Magdalena, Pablo Montero-Manso, Daniel Peralta, Yogesh Pipada Sunil Kumar, Alejandro Rosales-Pérez, Julian Ruddick, Akylas Stratigakos, Peter Stuckey, Guido Tack, Isaac Triguero, Rui Yuan"
+  venue: "IEEE Access"
+  doi: "10.1109/ACCESS.2025.3555393"
+  # code: "https://github.com/your/repo"
+
+- type: "preprint"
+  year: 2025
+  title: "{Energy forecasting} for reliable power system operations"
+  authors: "Akylas Stratigakos, Wangkun Xu"
+  venue: "Invited webinar"
+  url: "https://www.esig.energy/event/reliable-energy-forecasting/"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2024
+  title: "Interpretable Machine Learning for DC Optimal Power Flow With Feasibility Guarantees"
+  authors: "Akylas Stratigakos, Salvador Pineda, Juan Miguel Morales, Georges Kariniotakis"
+  venue: "IEEE Transactions on Power Systems"
+  doi: "10.1109/TPWRS.2023.3333165"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2024
+  title: "Decision-focused linear pooling for probabilistic forecast combination"
+  authors: "Akylas Stratigakos, Salvador Pineda, Juan Miguel Morales"
+  venue: "International Journal of Forecasting"
+  doi: "10.1016/j.ijforecast.2024.11.006"
+  url: "https://www.sciencedirect.com/science/article/pii/S0169207024001213"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2024
+  title: "A two-stage stochastic unit-commitment formulation for evaluating the impact of battery energy storage systems on reserve requirements"
+  authors: "Konstantinos F Krommydas, Akylas C Stratigakos, Efthimia Chassioti, Ioannis Moraitis"
+  venue: "IET Conference Proceedings CP904"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2024
+  title: "A Two-Stage Stochastic Unit-Commitment Formulation for Evaluating the Impact of Battery Energy Storage Systems on Reserve Requirements"
+  authors: "Konstantinos Krommydas, Akylas Stratigakos, Efthimia Chassioti, Ioannis Moraitis"
+  venue: "{14th Mediterranean Conference on Power Generation Transmission, Distribution and Energy Conversion}"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2023
+  title: "{Decision-Focused Data Pooling for Contextual Stochastic Optimization}"
+  authors: "Akylas Stratigakos, Juan Miguel Morales, Salvador Pineda, Georges Kariniotakis"
+  url: "https://hal.science/hal-04268454"
+  # code: "https://github.com/your/repo"
+
+- type: "thesis"
+  year: 2023
+  title: "{Towards the Prescriptive Analytics Paradigm for Energy Forecasting and Power System Optimization}"
+  authors: "Akylas Stratigakos"
+  venue: "{Universit{\'e} Paris sciences et lettres}"
+  url: "https://pastel.hal.science/tel-04250526"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2023
+  title: "Towards Resilient Energy Forecasting: A Robust Optimization Approach"
+  authors: "Akylas Stratigakos, Panagiotis Andrianesis, Andrea Michiorri, Georges Kariniotakis"
+  venue: "IEEE Transactions on Smart Grid"
+  doi: "10.1109/TSG.2023.3272379"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2022
+  title: "Prescriptive trees for integrated forecasting and optimization applied in trading of renewable energy"
+  authors: "Akylas Stratigakos, Simon Camal, Andrea Michiorri, Georges Kariniotakis"
+  venue: "IEEE Transactions on Power Systems"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2022
+  title: "Flexibility study of the Greek power system using a stochastic programming approach for estimating reserve requirements"
+  authors: "Konstantinos Krommydas, Christos Dikaiakos, George Papaioannou, Akylas Stratigakos"
+  venue: "Electric Power Systems Research"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2022
+  title: "A Novel Modular Mobile Power Flow Controller for Real-Time Congestion Management Tested on a 150kV Transmission System"
+  authors: "Konstantinos F. Krommydas, Akylas C. Stratigakos, Christos N. Dikaiakos, George P. Papaioannou, Martin G. Jones, Grace C. McLoughlin"
+  venue: "IEEE Access"
+  doi: "10.1109/ACCESS.2022.3205589"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2022
+  title: "End-to-end Learning for Hierarchical Forecasting of Renewable Energy Production with Missing Values"
+  authors: "Akylas Stratigakos, Dennis van der Meer, Simon Camal, Georges Kariniotakis"
+  venue: "2022 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)"
+  doi: "10.1109/PMAPS53380.2022.9810610"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2022
+  title: "{Making Energy Forecasting Resilient to Missing Features: a Robust Optimization Approach }"
+  authors: "Akylas Stratigakos, Panagiotis Andrianesis, Andrea Michiorri, Georges Kariniotakis"
+  venue: "{42nd Int. Symp. on Forecasting}"
+  url: "https://minesparis-psl.hal.science/hal-03718668"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2021
+  title: "Short-term net load forecasting with singular spectrum analysis and LSTM neural networks"
+  authors: "Akylas Stratigakos, Athanasios Bachoumis, Vasiliki Vita, Elias Zafiropoulos"
+  venue: "Energies"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2021
+  title: "Short-term net load forecasting with singular spectrum analysis and LSTM neural networks"
+  authors: "Akylas Stratigakos, Athanasios Bachoumis, Vasiliki Vita, Elias Zafiropoulos"
+  venue: "Energies"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2021
+  title: "{A robust fix-and-optimize matheuristic for timetabling problems with uncertain renewable energy production}"
+  authors: "Akylas Stratigakos"
+  venue: "{IEEE Symposium Series on Computational Intelligence 2021}"
+  url: "https://hal.science/hal-03449920"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2021
+  title: "A Value-Oriented Price Forecasting Approach to Optimize Trading of Renewable Generation"
+  authors: "Akylas Stratigakos, Andrea Michiorri, Georges Kariniotakis"
+  venue: "2021 IEEE Madrid PowerTech"
+  doi: "10.1109/PowerTech46648.2021.9494832"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2021
+  title: "{Short-term trading of wind energy production using data-driven prescriptive optimization}"
+  authors: "Akylas Stratigakos, S Camal, T Blondel, Georges Kariniotakis"
+  venue: "{Wind Energy Science Conference}"
+  url: "https://hal.science/hal-03238445"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2020
+  title: "An improved flexibility metric based on kernel density estimators applied on the Greek power system"
+  authors: "Konstantinos F Krommydas, Akylas C Stratigakos, Christos Dikaiakos, George P Papaioannou, Elias Zafiropoulos, Lambros Ekonomou"
+  venue: "Flexitranstore"
+  # code: "https://github.com/your/repo"
+
+- type: "journal"
+  year: 2019
+  title: "Testing the efficiency of electricity markets using a new composite measure based on nonlinear TS Tools"
+  authors: "George P Papaioannou, Christos Dikaiakos, Akylas C Stratigakos, Panos C Papageorgiou, Konstantinos F Krommydas"
+  venue: "Energies"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 2019
+  title: "A Suitable Flexibility Assessment Approach for the Pre-Screening Phase of Power System Planning Applied on the Greek Power System"
+  authors: "Akylas C. Stratigakos, Konstantinos F. Krommydas, Panos C. Papageorgiou, Christos Dikaiakos, George P. Papaioannou"
+  venue: "IEEE EUROCON 2019 -18th International Conference on Smart Technologies"
+  # code: "https://github.com/your/repo"
+
+- type: "conference"
+  year: 
+  title: "{Resilient Feature-driven Trading of Renewable Energy with Missing Data}"
+  authors: "Matias K{\\"u}hnau, Akylas Stratigakos, Simon Camal, Samuel Chevalier, Georges},  booktitle = {2023 {IEEE} {P}ower \& {E}nergy {S}ociety {I}nnovative {S}mart {G}rid {T}echnologies conference (ISGT)},   URL = {https://hal.science/hal-04104548},   YEAR = {2023},   KEYWORDS = {energy trading ; data-driven optimization ; missing data ; renewable energy sources ; robust optimization},   HAL_ID = {hal-04104548},   HAL_VERSION = {v1},   keywords = {peerconf},   author+an =	 {2=highlight Kariniotakis"
+  # code: "https://github.com/your/repo"
