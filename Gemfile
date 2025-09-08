@@ -1,6 +1,7 @@
-# Gemfile (optional for local preview only; GitHub Pages ignores this)
+# Gemfile (optional, for local `bundle exec jekyll serve`)
 source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.8"   # needed for local `jekyll serve` on Ruby 3
 
 # gem "jekyll", "~> 4.3"
 # gem "jekyll-feed", "~> 0.17"
