@@ -44,7 +44,7 @@ permalink: /
       </p>
       
       <p>
-        You can find more about my research work and other activities in <a href="{{ "/publications/" | relative_url }}">Publications</a>,
+        You can find more about my research and other activities in <a href="{{ "/publications/" | relative_url }}">Publications</a>,
         <a href="{{ "/talks/" | relative_url }}">Talks</a>,
         and my <a href="{{ "/cv/" | relative_url }}">CV</a>.
         I am open to collaborations and will soon be looking to hire a PhD student. 
