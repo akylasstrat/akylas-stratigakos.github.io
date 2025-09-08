@@ -6,6 +6,12 @@ description: "Short bio here."
 url: "https://akylasstrat.github.io"
 baseurl: ""   # must match the repo name with a leading slash
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  # - jekyll-scholar
+
 # markdown: kramdown
 # permalink: /:categories/:title/
 
@@ -30,8 +36,3 @@ baseurl: ""   # must match the repo name with a leading slash
 #     output: true
 #     permalink: /talks/:name/
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  # - jekyll-scholar
