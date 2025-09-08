@@ -175,7 +175,7 @@
   venue: "IEEE EUROCON 2019 -18th International Conference on Smart Technologies"
 
 - type: "conference"
-  year: 
+  year: 2023
   title: "{Resilient Feature-driven Trading of Renewable Energy with Missing Data}"
   authors: "Matias K{\\"u}hnau, Akylas Stratigakos, Simon Camal, Samuel Chevalier, Georges},  booktitle = {2023 {IEEE} {P}ower \& {E}nergy {S}ociety {I}nnovative {S}mart {G}rid {T}echnologies conference (ISGT)},   URL = {https://hal.science/hal-04104548},   YEAR = {2023},   KEYWORDS = {energy trading ; data-driven optimization ; missing data ; renewable energy sources ; robust optimization},   HAL_ID = {hal-04104548},   HAL_VERSION = {v1},   keywords = {peerconf},   author+an =	 {2=highlight Kariniotakis"
   doi: "10.1109/ISGTEUROPE56780.2023.10408186"
