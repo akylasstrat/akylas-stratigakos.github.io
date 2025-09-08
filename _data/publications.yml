@@ -1,0 +1,25 @@
+# type: journal | conference | preprint
+# Add more entries by copying one block and editing the values.
+- type: journal
+  year: 2025
+  title: Context-aware Dispatch with Renewables
+  authors: A. Stratigakos, J. Doe
+  venue: Energy Systems
+  doi: 10.1234/es.2025.123456
+  pdf: /assets/papers/stratigakos2025.pdf   # optional; file goes under assets/papers/
+  url: https://doi.org/10.1234/es.2025.123456
+
+- type: conference
+  year: 2024
+  title: Fast Gadgets via Optimization
+  authors: A. Stratigakos, A. Lee
+  venue: Proc. PowerTech
+  url: https://arxiv.org/abs/2401.01234
+  code: https://github.com/akylasstrat/gadgets   # optional
+
+- type: preprint
+  year: 2023
+  title: Robust Widgets (arXiv:2301.01234)
+  authors: A. Stratigakos
+  venue: arXiv
+  url: https://arxiv.org/abs/2301.01234
