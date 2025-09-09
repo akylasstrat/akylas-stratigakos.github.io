@@ -133,13 +133,6 @@
   venue: "Energies"
   # code: "https://github.com/your/repo"
 
-- type: "journal"
-  year: 2021
-  title: "Short-term net load forecasting with singular spectrum analysis and LSTM neural networks"
-  authors: "Akylas Stratigakos, Athanasios Bachoumis, Vasiliki Vita, Elias Zafiropoulos"
-  venue: "Energies"
-  # code: "https://github.com/your/repo"
-
 - type: "conference"
   year: 2021
   title: "A robust fix-and-optimize matheuristic for timetabling problems with uncertain renewable energy production"
