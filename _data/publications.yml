@@ -171,12 +171,12 @@
 - type: "conference"
   year: 2019
   title: "A Suitable Flexibility Assessment Approach for the Pre-Screening Phase of Power System Planning Applied on the Greek Power System"
-  authors: "Akylas C. Stratigakos, Konstantinos F. Krommydas, Panos C. Papageorgiou, Christos Dikaiakos, George P. Papaioannou"
+  authors: "Akylas Stratigakos, Konstantinos Krommydas, Panos Papageorgiou, Christos Dikaiakos, George Papaioannou"
   venue: "IEEE EUROCON 2019 -18th International Conference on Smart Technologies"
 
 - type: "conference"
   year: 2023
-  title: "{Resilient Feature-driven Trading of Renewable Energy with Missing Data}"
+  title: "Resilient Feature-driven Trading of Renewable Energy with Missing Data"
   authors: "Matias Kuhnau, Akylas Stratigakos, Simon Camal, Samuel Chevalier, Georges Kariniotakis",  
-  venue: "{2023 {IEEE} {P}ower and {E}nergy {S}ociety {I}nnovative {S}mart {G}rid {T}echnologies conference (ISGT)}, 
+  venue: "2023 IEEE Power and Energy Society Innovative Smart Grid Technologies conference (ISGT)", 
   doi: "10.1109/ISGTEUROPE56780.2023.10408186"
