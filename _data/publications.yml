@@ -170,6 +170,6 @@
 - type: "conference"
   year: 2023
   title: "Resilient Feature-driven Trading of Renewable Energy with Missing Data"
-  authors: "Matias Kuhnau, Akylas Stratigakos, Simon Camal, Samuel Chevalier, Georges Kariniotakis",  
-  venue: "2023 IEEE Power and Energy Society Innovative Smart Grid Technologies conference (ISGT)", 
+  authors: "Matias Kuhnau, Akylas Stratigakos, Simon Camal, Samuel Chevalier, Georges Kariniotakis"
+  venue: "2023 IEEE Power and Energy Society Innovative Smart Grid Technologies conference (ISGT)" 
   doi: "10.1109/ISGTEUROPE56780.2023.10408186"
