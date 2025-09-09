@@ -142,9 +142,9 @@
 
 - type: "conference"
   year: 2021
-  title: "{A robust fix-and-optimize matheuristic for timetabling problems with uncertain renewable energy production}"
+  title: "A robust fix-and-optimize matheuristic for timetabling problems with uncertain renewable energy production"
   authors: "Akylas Stratigakos"
-  venue: "{IEEE Symposium Series on Computational Intelligence 2021}"
+  venue: "IEEE Symposium Series on Computational Intelligence 2021"
   url: "https://hal.science/hal-03449920"
   # code: "https://github.com/your/repo"
 
