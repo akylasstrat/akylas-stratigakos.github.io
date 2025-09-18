@@ -57,6 +57,13 @@ maxbibnames=99,giveninits=true,uniquename=false]{biblatex}
               & #4\\[0.8em]
 }
 
+% ---------- Supervision entry ----------
+% \supervision{years}{student}{level}{thesis}
+\newcommand{\supervision}[4]{%
+  \textbf{#1} & \textbf{#2} ({#3}) \\[-0.2em]
+                 & \emph{#4} \\[0.8em]
+}
+
 % --- Style for labels in the left (date) column ---
 \newcommand{\labelstyle}[1]{\textsc{#1}}   % small caps; change to \textbf if you prefer bold
 
@@ -220,6 +227,23 @@ Forecasting, Dijon, France (\emph{organizer, chair}).
   }
 
 \end{entrylist}
+
+
+% \section*{Supervision}
+
+% \subsection*{PhD Students}
+% \begin{entrylist}
+%   \supervision{2023--}{Guillaume Van Caelenberg}{PhD, Imperial College London, co-supervisor}{Market Services for 100\% VRE-based Power Systems}
+% \end{entrylist}
+
+% \subsection*{MSc and Undergraduate Students}
+% \begin{entrylist}
+%   \supervision{2025}{Yi Ding}{MSc, Imperial College London}{DQN-based Intelligent Decision-Making Method for Market Transactions of Wind-Storage Aggregators with High-Fidelity Model}
+%   \supervision{2025}{Felipe Mendes}{MEng, Imperial College London}{Energy Forecasting with Foundation Time Series Models}
+%   \supervision{2024}{Joshi Himanish}{MEng, Imperial College London}{Machine Learning for Renewable Energy Forecasting and Trading}
+%   \supervision{2023}{Matias Kuhnau}{MSc, DTU and Mines Paris, PSL}{Resilient Prescriptive Analytics for Power Systems}
+% \end{entrylist}
+
 
 
 \section*{Additional Information}
